@@ -1,6 +1,7 @@
 ![Spotify](https://img.shields.io/badge/Spotify-00FA9A?&style=for-the-badge&logo=spotify&logoColor=black)
 ![Pinterest](https://img.shields.io/badge/Pinterest-FF6347.svg?&style=for-the-badge&logo=Pinterest&logoColor=black)
-:shell: |
+
+:shell: |"Satisfy my soul" B.M
 
 ![GitHub](https://img.shields.io/badge/GitHub-DC143C?style=for-the-badge&logo=github&logoColor=black)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)
